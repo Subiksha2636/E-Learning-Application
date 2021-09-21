@@ -1,28 +1,56 @@
-# E-Learning
-## Description
-Educational applications or eLearning apps have become a primary source of imparting education for many institutions, universities, colleges, and schools.
-The demand for such applications has increased to modernize the field of education.
-## Technologies used
-* Java 8
-* MySQL
-* Spring Boot
+# Project-2
+
+# E-Learning Application
+
+This application mainly focuses on providing different courses to the students and the teacher will be managing and monitoring the student's academic activities. This application is done with Spring Boot and Angular which will be the primary technologies to create our web application.
+
+# CONCEPTS AND TECHNOLOGIES COVERED WITH THIS APPLICATION ARE :
+
+* Java OOP
+* Collections
+* Control Statements
+* Exceptions
+* Maven Project
 * Spring Data
-* Maven
-* Log4J
-* JUnit
-* HTML
-* CSS
-* Bootstrap
-* TypeScript
+* Spring Boot
 * Angular
-## Features
-* Student can enroll in a course
-* Student can view all enrolled courses
-* Student can view all courses
-* Student can edit their profile
-* Student can register
-* Teacher can add course
-* Teacher can edit course
-* Teacher can delete course
-* Teacher can view all students
-* Teacher can view all courses
+* JUnit
+* Java 
+* MySQL
+
+# Project Presentation link:
+https://1drv.ms/p/s!AtgvU0td0j6WgiQ7mPaPVckC_gW_?e=iiM7Gi
+
+# Future Development Plans
+
+* Providing Assignment Service
+* Conducting Test for different Courses and Providing Certificates
+
+# Features
+Admin:
+* Login
+* Create Teacher
+* Read Teacher
+* Update Teacher
+* Display Teacher
+
+Teacher:
+* Login
+* Create Course 
+* Read Course 
+* Update Course 
+* Display Course
+* View all students
+
+Student:
+* Registration 
+* Login
+* View all Courses
+* Enroll Course
+* View all enrolled Courses
+
+# Usage
+* Run maven build
+* Run Angular application
+* Get started with home page with sign up and login validations
+* Continue to use the user interface accordingly
